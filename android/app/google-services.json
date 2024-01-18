@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270298412025",
+    "project_id": "rosy-sun-404922",
+    "storage_bucket": "rosy-sun-404922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270298412025:android:96555d6becec06f5e10328",
+        "android_client_info": {
+          "package_name": "com.example.police"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlTioEEXHn-I-Z_zSnSUF1ODPS65DJgTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
